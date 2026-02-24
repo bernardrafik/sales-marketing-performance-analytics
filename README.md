@@ -1,6 +1,6 @@
 # sales-marketing-performance-analytics
 End-to-end BI project analyzing sales and marketing performance using Python, SQL and Power BI. 
-Data source: e-commerce, 
+- Data source: e-commerce, 
 
 ## Tech Stack
 - Python (data merging)
