@@ -16,15 +16,15 @@ End-to-end BI project analyzing sales and marketing performance using Python, SQ
 
 ## Project Structure
 - data/ – raw sales & sale and marketing data, before and after merging and cleaning
-- python/ – data merging script  
+- python/ – data merging script   
 - sql/ – data modeling & KPI calculations  
 - powerbi/ – final dashboard file
 
   ## Executive Overview
-![Executive Overview](Screenshots/Executive_Overview.png)
+![Executive Overview](Screenshots/Executive_Overview.PNG)
 
 ## Marketing Performance
-![Marketing Performance](Screenshots/Marketing_Performance.png)
+![Marketing Performance](Screenshots/Marketing_Performance.PNG)
 
 ## Country Analysis
-![Country Analysis](Screenshots/Country_Analysis.png)
+![Country Analysis](Screenshots/Country_Analysis.PNG)
